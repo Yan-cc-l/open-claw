@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "企业微信文档": {
+      "type": "streamable-http",
+      "url": "${WECOM_ROBOT_DOC_MCP_URL}"
+    }
+  }
+}
